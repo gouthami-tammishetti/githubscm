@@ -1,3 +1,5 @@
 print("hello world")
 print("a new line")
-
+print("hi")
+print("hrw")
+print("jg")
